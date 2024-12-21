@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.9)  21 DEC 2024 17:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.9)  21 DEC 2024 17:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -234,47 +234,9 @@ Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
 \TX@delta=\dimen159
 \TX@cols=\count284
 \TX@ftn=\toks24
-) (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/generic/pdftex\glyphtounicode.tex) (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/latex/cormorantgaramond\CormorantGaramond.sty
-Package: CormorantGaramond 2024/04/23 (Bob Tennent and autoinst) Style file for Cormorant Garamond fonts.
- (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-) (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks25
-\XKV@tempa@toks=\toks26
-)
-\XKV@depth=\count285
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
-Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
-) (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
-Package: fontaxes 2020/07/21 v1.0e Font selection axes
-LaTeX Info: Redefining \upshape on input line 29.
-LaTeX Info: Redefining \itshape on input line 31.
-LaTeX Info: Redefining \slshape on input line 33.
-LaTeX Info: Redefining \swshape on input line 35.
-LaTeX Info: Redefining \scshape on input line 37.
-LaTeX Info: Redefining \sscshape on input line 39.
-LaTeX Info: Redefining \ulcshape on input line 41.
-LaTeX Info: Redefining \textsw on input line 47.
-LaTeX Info: Redefining \textssc on input line 48.
-LaTeX Info: Redefining \textulc on input line 49.
-)
-LaTeX Info: Redefining \oldstylenums on input line 123.
-) (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\charter.sty
-Package: charter 2020/03/25 PSNFSS-v9.3 (P.Dyballa) 
-)
-LaTeX Font Info:    Trying to load font information for OT1+bch on input line 99.
- (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1bch.fd
-File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
-) (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+) (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/generic/pdftex\glyphtounicode.tex) (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count286
+\l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box56
 ) (resume.aux)
 \openout1 = `resume.aux'.
@@ -299,31 +261,34 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 99.
 LaTeX Font Info:    ... okay on input line 99.
  (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
+\scratchcounter=\count286
 \scratchdimen=\dimen160
 \scratchbox=\box57
-\nofMPsegments=\count288
-\nofMParguments=\count289
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count290
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count289
 \MPscratchDim=\dimen161
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
-\everyMPtoPDFconversion=\toks28
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks26
 )
 Package hyperref Info: Link coloring OFF on input line 99.
  (resume.out) (resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
-\c@mv@tabular=\count293
-\c@mv@boldtabular=\count294
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 108.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 109.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 109.
 LaTeX Font Info:    Trying to load font information for U+lasy on input line 109.
- (C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+(C:\Users\louie\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -341,26 +306,30 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{C:/Users/louie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] (resume.aux)
+{C:/Users/louie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (resume.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-16>
  ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 8178769A591DAE54593BE5DC5893BD68;390.
  ) 
 Here is how much of TeX's memory you used:
- 11556 strings out of 473898
- 186447 string characters out of 5726480
- 1955960 words of memory out of 5000000
- 34258 multiletter control sequences out of 15000+600000
- 579859 words of font info for 71 fonts, out of 8000000 for 9000
+ 10768 strings out of 473898
+ 171864 string characters out of 5726480
+ 1956960 words of memory out of 5000000
+ 33516 multiletter control sequences out of 15000+600000
+ 563661 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,316b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on resume.pdf (1 page, 74665 bytes).
+ 75i,11n,79p,316b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on resume.pdf (1 page, 110358 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
+ 66 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
