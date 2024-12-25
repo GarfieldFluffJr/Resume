@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.9)  24 DEC 2024 00:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.9)  25 DEC 2024 18:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -292,11 +292,11 @@ LaTeX Font Info:    Trying to load font information for U+lasy on input line 109
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 120.
+(Font)              <10.95> on input line 121.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 120.
+(Font)              <8> on input line 121.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 120.
+(Font)              <6> on input line 121.
 
 
 
@@ -316,7 +316,7 @@ L3 programming layer <2024-08-16>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 3F3CFAF57EFC85CEDC5E2755A123F058;609.
+(rerunfilecheck)             Checksum: F7A51939DAB6A68E3C6D0742D342E8D6;609.
  ) 
 Here is how much of TeX's memory you used:
  10777 strings out of 473898
@@ -325,9 +325,9 @@ Here is how much of TeX's memory you used:
  33521 multiletter control sequences out of 15000+600000
  564337 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,316b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,332b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\louie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\louie\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 110811 bytes).
+Output written on resume.pdf (1 page, 111086 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
