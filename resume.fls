@@ -1,6 +1,6 @@
-PWD c:\Users\louie\Desktop\School\Resume and Cover Letter\Resume
+PWD c:\Users\louie\Desktop\School\Resume and Cover Letter\Resume\Resume
 INPUT C:\Users\louie\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\louie\Desktop\School\Resume and Cover Letter\Resume\resume.tex
+INPUT c:\Users\louie\Desktop\School\Resume and Cover Letter\Resume\Resume\resume.tex
 OUTPUT resume.log
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -136,6 +136,7 @@ INPUT .\resume.out
 OUTPUT resume.out
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
@@ -160,6 +161,7 @@ INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tf
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\louie\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT resume.aux
 INPUT .\resume.out
@@ -176,6 +178,8 @@ INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\louie\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb

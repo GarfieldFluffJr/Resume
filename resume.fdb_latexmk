@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1735267225.61331 "c:/Users/louie/Desktop/School/Resume and Cover Letter/Resume/resume.tex" "resume.pdf" "resume" 1735267226.61053 0
+["pdflatex"] 1736121931.81682 "c:/Users/louie/Desktop/School/Resume and Cover Letter/Resume/Resume/resume.tex" "resume.pdf" "resume" 1736121933.09928 0
   "C:/Users/louie/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1734819682 168695 d10abacd4983afa35ed4bdc7db543b14 ""
   "C:/Users/louie/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1734820337 11548 04fc75c609c0939d021b36dccf9b2022 ""
   "C:/Users/louie/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1725908498 12668 61418553dc8a65f3ff67dd11cb89cad2 ""
@@ -13,6 +13,7 @@
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi8.tfm" 1136765053 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
@@ -28,6 +29,7 @@
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb" 1247596667 32587 65067f817f408bc71a7312f3d9828a9b ""
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
@@ -86,10 +88,10 @@
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1718356376 7243 e5dac1240636811edb77568b81818372 ""
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1718356376 7532 d2e1111e17bfebb1607d8ffa779705ec ""
   "C:/Users/louie/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/louie/Desktop/School/Resume and Cover Letter/Resume/resume.tex" 1735267224 10052 025662624460c763652fadd45e86d51c ""
-  "resume.aux" 1735267226 931 de489026cb72a5ebeda4096c8a7197b5 "pdflatex"
-  "resume.out" 1735267226 609 f7a51939dab6a68e3c6d0742d342e8d6 "pdflatex"
-  "resume.tex" 1735267224 10052 025662624460c763652fadd45e86d51c ""
+  "c:/Users/louie/Desktop/School/Resume and Cover Letter/Resume/Resume/resume.tex" 1736121930 10224 e4e6a8fc0612f9d5020cf8805cd599a0 ""
+  "resume.aux" 1736121932 941 c3287afac6741edc53f1d10f4f6a9f37 "pdflatex"
+  "resume.out" 1736121932 662 ba0fb9f0f2e507898b2baa3ebeb39b48 "pdflatex"
+  "resume.tex" 1736121930 10224 e4e6a8fc0612f9d5020cf8805cd599a0 ""
   (generated)
   "resume.aux"
   "resume.log"
